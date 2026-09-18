@@ -21,6 +21,7 @@ The system turns content publishing into a controlled workflow with preview, app
 - Story generation
 - Controlled multi-account publishing
 - Calls to action and keyword workflows
+- Forwarded report Stories without CTA or Auto-DM
 - Automated audience interactions
 - Publishing status reports
 - Separation of content flows by brand and account
@@ -31,4 +32,4 @@ Product architecture, workflow design, publishing logic, brand separation, quali
 
 ## Status
 
-**In Production**
+**In Production — CTA and no-CTA Story flows operator-tested in Production**
