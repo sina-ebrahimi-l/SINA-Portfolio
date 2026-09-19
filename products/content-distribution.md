@@ -20,7 +20,7 @@ The system turns content publishing into a controlled workflow with preview, app
 - Content preview before publishing
 - Story generation
 - Controlled multi-account publishing
-- Calls to action with exact-keyword or any-reply Story triggers
+- Calls to action with one-hashtag exact matching or duplicate-hashtag any-reply matching
 - Fixed Podcast CTA Story preset using a pre-approved static visual
 - Forwarded report Stories without CTA or Auto-DM
 - Automated audience interactions
@@ -33,4 +33,4 @@ Product architecture, workflow design, publishing logic, brand separation, quali
 
 ## Status
 
-**In Production — existing CTA and no-CTA Story flows operator-tested; any-reply and Podcast CTA extensions implemented with CI passing, live operator E2E pending**
+**In Production — exact CTA, no-CTA Forward Report and Podcast CTA are operator-tested in Production; revised duplicate-hashtag any-reply CTA is implemented with CI passing and live operator E2E pending**
