@@ -29,4 +29,4 @@ System requirements, account-flow architecture, automation rules, risk managemen
 
 ## Status
 
-**In Production — core exact-keyword automation verified; any-reply Content Story extension implemented with CI passing, live operator E2E pending**
+**In Production — core exact-keyword automation verified, including the Podcast Content Story preset in live operator E2E; any-reply Content Story extension is implemented with CI passing and live operator E2E pending**
