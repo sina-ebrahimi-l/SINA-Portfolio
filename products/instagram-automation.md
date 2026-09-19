@@ -17,8 +17,8 @@ The system uses dedicated publishing routes and explicit account rules for each 
 - Automated Instagram Story publishing
 - Explicit account selection
 - Brand-specific publishing flows
-- Keyword-based audience interaction
-- Automated direct-message handoff
+- Exact-keyword and any-reply Story audience matching
+- Automated direct-message handoff to the configured destination
 - Publishing health checks
 - Delivery and failure reporting
 - Integration with content-management workflows
@@ -29,4 +29,4 @@ System requirements, account-flow architecture, automation rules, risk managemen
 
 ## Status
 
-**In Production**
+**In Production — core exact-keyword automation verified; any-reply Content Story extension implemented with CI passing, live operator E2E pending**
