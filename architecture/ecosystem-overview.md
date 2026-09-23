@@ -20,7 +20,7 @@ Products such as the Trading Journal help traders document decisions, measure pe
 
 ## 5. Content Infrastructure
 
-The Content Distribution System and Instagram Automation support controlled publishing and audience interaction across selected platforms.
+The Content Distribution System, Instagram Automation and SINA Deep Link support controlled publishing, audience interaction and branded destination routing across selected platforms.
 
 ## Public Ecosystem Map
 
