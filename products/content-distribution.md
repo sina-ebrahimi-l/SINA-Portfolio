@@ -24,6 +24,8 @@ The system turns content publishing into a controlled workflow with preview, app
 - Fixed Podcast CTA Story preset using a pre-approved static visual
 - Forwarded report Stories without CTA or Auto-DM
 - Automated audience interactions
+- Phone-first Telegram control for exact-media Instagram Auto-DM setup
+- Automatic YouTube-to-branded-Deep-Link handoff and an explicit generic Deep Link utility
 - Publishing status reports
 - Separation of content flows by brand and account
 
@@ -33,4 +35,4 @@ Product architecture, workflow design, publishing logic, brand separation, quali
 
 ## Status
 
-**In Production — exact CTA, no-CTA Forward Report and Podcast CTA are operator-tested in Production; revised duplicate-hashtag any-reply CTA is implemented with CI passing and live operator E2E pending**
+**In Production — core Story publishing flows are operator-tested; the mobile Instagram Auto-DM and generic Deep Link control layer is deployed, with its first real operator E2E verification pending**
