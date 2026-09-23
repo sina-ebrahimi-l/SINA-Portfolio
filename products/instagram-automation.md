@@ -22,6 +22,8 @@ The system uses dedicated publishing routes and explicit account rules for each 
 - Publishing health checks
 - Delivery and failure reporting
 - Integration with content-management workflows
+- Exact Post/Reel/active-Story resolution for private mobile operator workflows
+- Reusable Follow Gate with fixed public acknowledgement on Post/Reel and private Story-reply handling
 
 ## My Role
 
@@ -29,4 +31,4 @@ System requirements, account-flow architecture, automation rules, risk managemen
 
 ## Status
 
-**In Production — core exact-keyword automation verified, including the Podcast Content Story preset in live operator E2E; any-reply Content Story extension is implemented with CI passing and live operator E2E pending**
+**In Production — established publishing and Auto-DM flows are live; the new exact-media mobile operator interface is deployed, with real operator E2E verification pending**

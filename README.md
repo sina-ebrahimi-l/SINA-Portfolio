@@ -10,6 +10,7 @@ These systems form parts of SINA OS: an integrated ecosystem designed to support
 - [Trading Journal](products/trading-journal.md)
 - [Content Distribution System](products/content-distribution.md)
 - [Instagram Automation](products/instagram-automation.md)
+- [SINA Deep Link](products/deep-link.md)
 - [VIP Community Platform](products/vip-community-platform.md)
 - [SINA Trading Ecosystem](products/sina-trading-ecosystem.md)
 
