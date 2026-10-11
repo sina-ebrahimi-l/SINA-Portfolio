@@ -1,39 +1,90 @@
-# Ecosystem Overview
+# SINA OS — Ecosystem Overview
 
-SINA OS is structured around five connected layers.
+SINA OS is a connected operating ecosystem spanning audience growth, education, trading tools, business operations, content production, distribution and shared infrastructure.
 
-## 1. Audience and Content
+This public view shows system boundaries and relationships while intentionally omitting implementation recipes and private production details.
 
-Educational videos, podcasts, live sessions and social-media content introduce traders to the ecosystem.
+## Audience & Professional Presence
 
-## 2. Education and Community
+Public education, market commentary, podcasts, live sessions and professional channels create the top of the ecosystem.
 
-Students and traders enter free education, structured programs, mentorship or private communities according to their needs.
+## Education & Community
 
-## 3. Customer Operations
+Structured programs, mentorship and private communities support deeper learning and ongoing participation.
 
-SIA coordinates lead information, customer records, follow-ups, sales, payments, subscriptions and administrative workflows.
+## Trading Products
 
-## 4. Trading Tools
+The SILO Trading Journal and analyst workflows support execution review, performance tracking, behavioral reflection and structured trading records.
 
-Products such as the Trading Journal help traders document decisions, measure performance and identify behavioral patterns.
+## Business Operations
 
-## 5. Content Infrastructure
+SIA coordinates lead, customer, payment, contract, subscription and follow-up workflows.
 
-The Content Distribution System, Instagram Automation and SINA Deep Link support controlled publishing, audience interaction and branded destination routing across selected platforms.
+## Content Production Systems
+
+A shared production layer supports recording-first educational visuals, repeatable short-form workflows, transcription, subtitle generation and post-production assistance.
+
+Representative systems include Visual Deck, Moai Content System and SILO Speech Service.
+
+## Content Operations & Distribution
+
+Publishing systems coordinate preview, approval, scheduling and delivery across selected channels.
+
+Representative systems include Content Distribution, Community Publisher, Newsroom, Live Orchestrator, Instagram Automation and Deep Link.
+
+## Shared AI & Infrastructure
+
+Reusable services provide model routing, speech processing, shared deployment primitives and common capabilities for multiple products.
+
+## Internal Control & Governance
+
+Project Hub provides a control plane for project state, repositories and next steps. Shora provides a structured multi-perspective decision process for selected product and business decisions.
 
 ## Public Ecosystem Map
 
 ```mermaid
 flowchart TD
-    A["Content & Audience"] --> B["Education & Community"]
-    B --> C["Customer Operations"]
-    B --> D["Trading Tools"]
-    E["Publishing Infrastructure"] --> A
-    C --> B
-    D --> B
+    A["Audience & Professional Presence"] --> B["Education & Community"]
+    B --> C["Trading Products"]
+    B --> D["Business Operations"]
+    E["Content Production Systems"] --> A
+    F["Content Operations & Distribution"] --> A
+    G["Shared AI & Infrastructure"] --> C
+    G --> D
+    G --> E
+    G --> F
+    H["Internal Control & Governance"] --> C
+    H --> D
+    H --> E
+    H --> F
 ```
 
-## Design Principle
+## Active System Families
 
-Each system can operate independently, but together they create a connected operational ecosystem.
+- SILO Trading Journal
+- VIP Community / Analyst Platform
+- SIA CRM & Accountant
+- SINA Web Platform
+- Visual Deck System
+- Moai Content System
+- SILO Speech Service
+- Content Distribution System
+- Community Publisher
+- Community Newsroom
+- Live Orchestrator
+- Instagram Automation
+- SINA Deep Link
+- LLM Router
+- Project Hub
+- Shora
+- Personal automation workflows
+- LinkedIn Professional Channel workstream
+
+## Design Principles
+
+- Build from real operating pain.
+- Keep systems independently useful but interoperable.
+- Centralize reusable infrastructure.
+- Keep human approval where judgment or brand risk matters.
+- Prefer deterministic automation for repeatable operations.
+- Keep public documentation outcome-focused and non-sensitive.
