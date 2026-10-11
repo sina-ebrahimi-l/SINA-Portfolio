@@ -2,43 +2,47 @@
 
 ## Overview
 
-The SINA Trading Ecosystem connects education, mentorship, community, content, customer operations and trading technology.
+The SINA Trading Ecosystem connects education, mentorship, community, content, trading tools, business operations and shared infrastructure.
 
-It is not a single application. It is a coordinated group of products and services designed around the complete journey of a trader.
+It is not a single application. It is an operating ecosystem built around the trader journey and the systems required to support it.
 
 ## Ecosystem Areas
 
 ### Education
-
-- Free foundational education
-- Trading School
-- Advanced Academy
-- Private Mentorship
-- Master Elite
+- Free educational content
+- Structured trading programs
+- Advanced training
+- Private mentorship
+- Long-form live learning
 
 ### Communities
-
 - Public trading community
 - Private VIP community
+- Analyst and contributor workflows
 
-### Trading Tools
-
-- Trading Journal
-- Performance and behavioral analytics
-- Risk-management tools
+### Trading Products
+- SILO Trading Journal
+- Performance review
+- Structured trade history
+- Decision and behavioral context
 
 ### Business Operations
+- SIA business operations
+- CRM and customer records
+- Accounting and payment workflows
+- Contract and subscription operations
 
-- SIA AI Business Copilot
-- CRM
-- Accounting and payment operations
-- Contract and subscription workflows
+### Content Systems
+- Visual production workflows
+- Speech and subtitle infrastructure
+- Publishing and distribution systems
+- Live and newsroom operations
 
-### Content Infrastructure
-
-- Content Distribution System
-- Instagram Automation
-- Podcasts, webinars and educational media
+### Shared Infrastructure
+- Model routing
+- Speech processing
+- Project control systems
+- Shared deployment and integration services
 
 ## My Role
 
@@ -46,4 +50,4 @@ Founder, trader, educator, product strategist and ecosystem architect.
 
 ## Status
 
-**In Production**
+**In Production / Active Expansion**
