@@ -2,37 +2,35 @@
 
 ## Overview
 
-A centralized system for preparing, previewing and publishing content across multiple platforms.
-
-It connects content creation, Telegram operations, Instagram publishing and automated audience-response workflows.
+A controlled publishing system for moving approved content across selected audience channels with consistent formatting, approvals and follow-up actions.
 
 ## The Problem
 
-Publishing content manually across different platforms creates repetitive work, inconsistent formatting and a higher risk of operational mistakes.
+Manual publishing across multiple platforms creates repetitive work, inconsistent presentation and avoidable operational mistakes.
 
 ## The Solution
 
-The system turns content publishing into a controlled workflow with preview, approval and distribution stages.
+The system converts publishing into a repeatable flow with preparation, preview, approval, distribution and reporting stages.
 
-## Core Capabilities
+## Public Capabilities
 
-- Telegram-based content operations
-- Content preview before publishing
-- Story generation
+- Telegram-centered operator workflow
+- Content preview and approval
+- Branded Story generation
 - Controlled multi-account publishing
-- Calls to action with one-hashtag exact matching or duplicate-hashtag any-reply matching
-- Fixed Podcast CTA Story preset using a pre-approved static visual
-- Forwarded report Stories without CTA or Auto-DM, reusing the approved image for Trading Instagram accounts and Sina's personal Telegram Story through the existing Control Bot
-- Automated audience interactions
-- Phone-first Telegram control for exact-media Instagram Auto-DM setup
-- Automatic YouTube-to-branded-Deep-Link handoff and an explicit generic Deep Link utility
-- Publishing status reports
-- Separation of content flows by brand and account
+- Audience-response automation
+- Reusable campaign and archive workflows
+- Cross-channel delivery reporting
+- Integration with supporting services such as Deep Link and Instagram Automation
+
+## System Role
+
+Content Distribution is one part of a wider content-operations stack that also includes scheduling, newsroom workflows, live distribution and platform-specific automation.
 
 ## My Role
 
-Product architecture, workflow design, publishing logic, brand separation, quality control and development coordination.
+Product architecture, workflow design, operational policy, brand separation, quality control and development coordination.
 
 ## Status
 
-**In Production — core Instagram Story flows and the generic Deep Link control have passed real operator tests. Personal Telegram Story publishing uses the already-connected @SinaControlBot and awaits a real Forward Report operator test; mobile Instagram Auto-DM setup also awaits its first real operator test.**
+**In Production**
