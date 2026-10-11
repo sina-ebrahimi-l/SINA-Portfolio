@@ -1,35 +1,34 @@
-# Trading Journal
+# SILO Trading Journal
 
 ## Overview
 
-A low-friction trading journal designed to make recording a trade possible in only a few interactions.
-
-The product focuses not only on profit and loss, but also on execution quality, risk management, decision-making and trading psychology.
+A trading-performance product that brings trade records, context, analytics and imported account history into one workflow.
 
 ## The Problem
 
-Many traders stop journaling because the recording process is slow and repetitive. Traditional journals also focus heavily on numerical results while ignoring behavioral patterns.
+Traditional journals become slow to maintain, separate imported trading history from personal notes and make consistent review harder than it should be.
 
 ## The Solution
 
-The Trading Journal combines fast trade entry with structured behavioral and performance analytics.
+SILO Trading Journal is designed as a low-friction performance system rather than a simple trade log.
 
-## Core Capabilities
+## Public Capabilities
 
-- Fast trade recording
-- Entry, stop-loss and target information
-- Risk-to-reward calculations
-- Chart and trade-image storage
-- Psychology and emotional-state tracking
-- Risk warnings
-- Weekly performance analysis
-- Voice-assisted data entry
-- Behavioral pattern discovery
+- Structured trade journaling
+- Trade context and outcome records
+- Chart and image context
+- Decision-state notes
+- Performance dashboards
+- Statement and platform data ingestion
+- Separation between imported history and manually written journal entries
+- Historical trade review with optional journaling later
+- Voice-assisted reflection as part of the product direction
+- Multi-language product direction
 
 ## My Role
 
-Product vision, trading-domain architecture, feature design, risk logic, behavioral framework and development leadership.
+Product vision, trading-domain architecture, workflow design, UX direction and development leadership.
 
 ## Status
 
-**In Development**
+**Advanced Development / Production Validation**
