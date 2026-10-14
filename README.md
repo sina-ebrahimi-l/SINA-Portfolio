@@ -16,6 +16,9 @@ Together they form **SINA OS**: a connected operating environment designed to re
 - [SINA Web Platform](products/sina-web-platform.md)
 
 ### Content Production
+- [SILO Collaborator Desk](products/collaborator-desk.md) — **100% / Production**
+- [SILO Visual Deck](products/visual-deck-system.md) — **100% / Production**
+- [SILO Publisher](products/silo-publisher.md) — **100% / Production**
 - [Content Production Systems](products/content-production-systems.md)
 - [SILO Speech Service](products/silo-speech-service.md)
 
