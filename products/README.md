@@ -10,6 +10,9 @@
 - [SINA Web Platform](sina-web-platform.md)
 
 ## Content Production
+- [SILO Collaborator Desk](collaborator-desk.md) — **100% / Production**
+- [SILO Visual Deck](visual-deck-system.md) — **100% / Production**
+- [SILO Publisher](silo-publisher.md) — **100% / Production**
 - [Content Production Systems](content-production-systems.md)
 - [SILO Speech Service](silo-speech-service.md)
 
