@@ -85,6 +85,7 @@ flowchart TD
 - Build from real operating pain.
 - Keep systems independently useful but interoperable.
 - Centralize reusable infrastructure.
+- Deploy web applications and workers to the owned VPS in Docker containers, managed by Coolify when appropriate. Keep specialized Cloudflare DNS/edge integrations only where they add value; migrate existing production workloads only after verification.
 - Keep human approval where judgment or brand risk matters.
 - Prefer deterministic automation for repeatable operations.
 - Keep public documentation outcome-focused and non-sensitive.
