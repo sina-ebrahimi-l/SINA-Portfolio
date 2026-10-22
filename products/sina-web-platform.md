@@ -23,6 +23,10 @@ The platform provides a durable public layer that can connect content, education
 - Shared design and navigation foundations
 - Product surfaces that can evolve independently while remaining part of one ecosystem
 
+## Runtime
+
+Owned VPS, Docker containers, and Coolify are the canonical application deployment stack; GitHub is used for source history and validation, while Cloudflare provides DNS and selected edge services.
+
 ## Status
 
 **Active Development**
