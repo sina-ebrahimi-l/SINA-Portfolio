@@ -6,6 +6,8 @@
 
 ## Current infrastructure baseline
 
+**Canonical deployment decision (2026-10-22):** Run web applications and background workers on the owned VPS using Docker, managed with Coolify where suitable. GitHub remains the source of truth and validation system; Cloudflare remains available for DNS and dedicated edge/integration functions. Do not dismantle an existing production integration before the Docker replacement has been deployed, tested, monitored, and accepted.
+
 Sina Ebrahimi now operates an owned server with **Coolify + Docker** available as shared infrastructure for the product ecosystem.
 
 This changes the default infrastructure decision. Paid managed services are no longer the automatic answer when a project encounters execution limits, quotas, collaboration/paywall restrictions, runtime limits, or rising usage cost.
@@ -59,11 +61,11 @@ When GitHub-hosted Actions cost/minutes become a constraint, evaluate server-sid
 
 ## Managed-service policy
 
-Managed services such as Supabase, Cloudflare, Vercel, or similar providers may remain in use when they are currently the safer, simpler, or cheaper choice.
+Managed supporting services such as Supabase and Cloudflare may remain where they serve a verified data, security, integration, or edge-network requirement; the canonical application runtime is Docker on the owned VPS managed by Coolify.
 
 However:
 
-- Vercel or another paid hosting tier is not a default requirement when Coolify can host the application.
+- The owned VPS + Docker + Coolify is the default and canonical hosting/deployment path for applications; hosted application runtimes are not the standard deployment target.
 - Supabase paid capacity is not a default requirement solely because a free project/usage limit is reached; first evaluate PostgreSQL/Supabase-compatible self-hosting on owned infrastructure.
 - Cloudflare services should be retained where their edge/network/queue/worker role provides real value and the cost remains low.
 - Product isolation must be preserved even when multiple products share the same physical server.
@@ -95,4 +97,4 @@ Before introducing a new paid infrastructure dependency or upgrading an existing
 4. prefer the owned infrastructure when it is technically sound and materially reduces recurring cost;
 5. preserve working production systems until the replacement is verified.
 
-Any architecture document that predates 2026-09-28 and assumes Vercel, Supabase Pro, GitHub-hosted deployment, or another paid managed service as the mandatory future path must be interpreted in light of this policy and updated when that area is next changed.
+Any older document that treats externally hosted application deployment, paid database tiers, or GitHub-hosted deployment as mandatory is superseded by this Docker/Coolify-first policy and must be corrected when touched.
