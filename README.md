@@ -14,6 +14,7 @@ Together they form **SINA OS**: a connected operating environment designed to re
 ### Business Operations
 - [SIA — AI Business Copilot](products/sia-ai-business-copilot.md)
 - [SINA Web Platform](products/sina-web-platform.md)
+- [SILO Identity](products/silo-identity.md) — functional auth tested; security, UX and SSO roadmap
 
 ### Content Production
 - [SILO Collaborator Desk](products/collaborator-desk.md) — **100% / Production**
