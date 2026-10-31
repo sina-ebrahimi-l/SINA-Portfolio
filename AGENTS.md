@@ -9,3 +9,7 @@ Read this policy before proposing code, automation, CI, deployment, or architect
 - **Safety:** no production data migrations, destructive operations, secrets/OAuth/DNS changes, extra costs, or public releases without explicit owner approval. Never expose credentials or customer data.
 - **Review and merge:** require relevant passing tests, no unresolved conflicts, assessed production impact, and post-deployment smoke tests when applicable.
 - **Coordination:** consult `sina-ebrahimi-l/project-hub` for cross-project priorities and constraints. Preserve project-specific instructions; if they conflict, ask the owner rather than silently overriding.
+
+
+## SILO Identity production architecture (2026-10-31)
+Owner decision: retain the existing central Supabase Auth/SILO Identity production architecture. Journal now uses central Supabase. Previous two-project bridge proposals website #68 and Journal #93 are superseded and must not merge unchanged. Preserve app-specific RLS and authorization. Cross-domain sessions and end-to-end login still require verification. No live OAuth, data, secrets, DNS or deployment changes without separate approval. See project-hub #12.
