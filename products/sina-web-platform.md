@@ -12,7 +12,8 @@ The platform provides a durable public layer that can connect content, education
 
 - Public brand and education pages
 - Community and program entry points
-- Media and support surfaces
+- Media surfaces
+- Authenticated support chat connected to the existing SIA support operation; team replies appear in the same website conversation
 - Reusable design foundation
 - Responsive web direction
 - Integration path for future product experiences
@@ -25,4 +26,4 @@ The platform provides a durable public layer that can connect content, education
 
 ## Status
 
-**Active Development**
+**Active Development** — the support chat capability is production-live and owner-verified on the active host; the wider platform remains in development. Identity sign-in is required.

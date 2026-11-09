@@ -25,6 +25,7 @@ SIA provides a conversational interface for managing these workflows while keepi
 - Contract and invoice workflows
 - Connection between CRM and accounting records
 - AI-assisted operational actions
+- Production support conversations originating on the website, with staff replies delivered back into the same authenticated site thread
 
 ## My Role
 
