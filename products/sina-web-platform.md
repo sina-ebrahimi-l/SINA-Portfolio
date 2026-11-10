@@ -28,6 +28,12 @@ The following **public website pages** are complete, owner-approved and deployed
 
 The overview uses the same high-quality artwork as the corresponding dedicated pages. These three completed website experiences are a **scoped milestone**: the rest of the website, the separate VIP community application and the main-domain migration have independent readiness and release requirements.
 
+## Bilingual English SSR & SEO — 2026-11-10
+
+An authored English experience and sitewide SEO foundation for public routes was merged in [website PR #130](https://github.com/sina-ebrahimi-l/sina-ebrahimi-website/pull/130) and deployed to the beta host on 2026-11-10. The work includes server-rendered English copy, locale-aware metadata and canonical/hreflang links, structured data and sitemap coverage, plus translated interface labels and accessibility text.
+
+The beta smoke check covered the English homepage, Community, Support and Media routes. Original Persian source titles and quotations remain intact where they are user-generated or part of the source media. The main-domain release and the rest of the website's development remain separate milestones.
+
 ## What This Demonstrates
 
 - Long-term platform thinking beyond social channels
