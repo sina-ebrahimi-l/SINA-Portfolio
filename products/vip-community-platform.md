@@ -29,6 +29,10 @@ The platform introduces a structured layer for analyst contributions, scenarios,
 
 Community concept, product strategy, trading methodology, participation mechanics, product architecture and development leadership.
 
+## Public Website Milestone
+
+The [VIP Readers' Association presentation page](https://new.sinaebrahimi.com/community/vip) was finalized, approved and deployed on 2026-11-10, alongside the [community overview](https://new.sinaebrahimi.com/community) and [free community page](https://new.sinaebrahimi.com/community/free). This **page-level** milestone does not mean the independent VIP analyst platform, workflows, data collection or integration roadmap is fully complete.
+
 ## Status
 
 **Advanced Development / Production Validation**
