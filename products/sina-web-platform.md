@@ -18,6 +18,16 @@ The platform provides a durable public layer that can connect content, education
 - Responsive web direction
 - Integration path for future product experiences
 
+## Finalized Community Website Pages — 2026-11-10
+
+The following **public website pages** are complete, owner-approved and deployed on the active `new.sinaebrahimi.com` platform:
+
+- [Community overview / اجتماعات](https://new.sinaebrahimi.com/community) — **FINAL / DEPLOYED**
+- [Free community / کامیونیتی رایگان](https://new.sinaebrahimi.com/community/free) — **FINAL / DEPLOYED**
+- [VIP Readers' Association / انجمن خوانشگران VIP](https://new.sinaebrahimi.com/community/vip) — **FINAL / DEPLOYED**
+
+The overview uses the same high-quality artwork as the corresponding dedicated pages. These three completed website experiences are a **scoped milestone**: the rest of the website, the separate VIP community application and the main-domain migration have independent readiness and release requirements.
+
 ## What This Demonstrates
 
 - Long-term platform thinking beyond social channels
