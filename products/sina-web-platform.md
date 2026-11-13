@@ -1,45 +1,40 @@
 # SINA Web Platform
 
+**COMPLETE / IN PRODUCTION / 100%**  
+Official website: **https://sinaebrahimi.com**  
+Launch and owner acceptance: **13 November 2026**
+
 ## Overview
 
-The public web foundation for SINA education, community, media and support experiences.
+The completed public website for Sina Ebrahimi's education, mentorship, community, media and support ecosystem. It provides a shared, owned home for the brand and its audiences.
 
-## Product Role
+## Delivered public experience
 
-The platform provides a durable public layer that can connect content, education, community entry points and future product surfaces without depending on social platforms as the primary home of the ecosystem.
+- Home and ecosystem navigation
+- Education overview, RTM School, Academy, Mentorship and Master Elite
+- Community overview, Free Community and VIP Readers' Association website pages
+- Consulting and webinar presentation
+- Media, podcasts, courses, live content, music and articles
+- About, authentic member experiences and support
+- Persian and authored English website experiences
+- Responsive presentation, approved artwork and coordinated text/image motion
+- Search metadata, canonical and multilingual links, structured data and sitemap
+- Central account entry and authenticated support connected to the existing SIA operation, with replies in the same website conversation
 
-## Public Capabilities
+## Production status
 
-- Public brand and education pages
-- Community and program entry points
-- Media surfaces
-- Authenticated support chat connected to the existing SIA support operation; team replies appear in the same website conversation
-- Reusable design foundation
-- Responsive web direction
-- Integration path for future product experiences
+The owner-approved initial website project and primary-domain migration are complete. The official apex is active with HTTPS; former beta and www addresses permanently route to the official site while preserving the requested page. The project is now in maintenance.
 
-## Finalized Community Website Pages — 2026-11-10
+Future website capabilities are separate enhancements. This release does not imply completion of the independent Trading Journal, VIP analyst application or the broader Identity roadmap.
 
-The following **public website pages** are complete, owner-approved and deployed on the active `new.sinaebrahimi.com` platform:
+## What this demonstrates
 
-- [Community overview / اجتماعات](https://new.sinaebrahimi.com/community) — **FINAL / DEPLOYED**
-- [Free community / کامیونیتی رایگان](https://new.sinaebrahimi.com/community/free) — **FINAL / DEPLOYED**
-- [VIP Readers' Association / انجمن خوانشگران VIP](https://new.sinaebrahimi.com/community/vip) — **FINAL / DEPLOYED**
+- Delivery of a bilingual public product from design through release
+- An owned brand and content foundation beyond social platforms
+- Consistent service navigation and support journeys
+- Integration with an existing operational ecosystem
+- Ongoing governance and accurate production documentation
 
-The overview uses the same high-quality artwork as the corresponding dedicated pages. These three completed website experiences are a **scoped milestone**: the rest of the website, the separate VIP community application and the main-domain migration have independent readiness and release requirements.
+## Maintenance
 
-## Bilingual English SSR & SEO — 2026-11-10
-
-An authored English experience and sitewide SEO foundation for public routes was merged in [website PR #130](https://github.com/sina-ebrahimi-l/sina-ebrahimi-website/pull/130) and deployed to the beta host on 2026-11-10. The work includes server-rendered English copy, locale-aware metadata and canonical/hreflang links, structured data and sitemap coverage, plus translated interface labels and accessibility text.
-
-The beta smoke check covered the English homepage, Community, Support and Media routes. Original Persian source titles and quotations remain intact where they are user-generated or part of the source media. The main-domain release and the rest of the website's development remain separate milestones.
-
-## What This Demonstrates
-
-- Long-term platform thinking beyond social channels
-- Shared design and navigation foundations
-- Product surfaces that can evolve independently while remaining part of one ecosystem
-
-## Status
-
-**Active Development** — the support chat capability is production-live and owner-verified on the active host; the wider platform remains in development. Identity sign-in is required.
+Preserve the accepted design and content, monitor operation, publish approved material and repair verified regressions. Define new features as independently scoped work.

@@ -25,6 +25,10 @@ Project Hub provides a single project-level view that keeps execution context cl
 
 Project Hub acts as the operational index for SINA OS rather than as a customer-facing product.
 
+## Website lifecycle checkpoint — 13 November 2026
+
+The completed SINA Web Platform is tracked as 100% / Production with its official public domain. Future website work is maintenance or a separately scoped enhancement, while other products retain independent readiness states.
+
 ## Public Boundary
 
 Internal links, private operational data and implementation detail are omitted from the public showcase.
