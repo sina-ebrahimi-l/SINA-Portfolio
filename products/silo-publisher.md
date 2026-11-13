@@ -1,7 +1,7 @@
 # SILO Publisher
 
 **Status:** Production — 100%  
-**Updated:** 2026-10-14
+**Updated:** 2026-11-13
 
 SILO Publisher is a structured document and PDF production desk for branded educational and community content.
 
@@ -17,7 +17,8 @@ SILO Publisher is a structured document and PDF production desk for branded educ
 - validates actual image decode/render state before export
 - verifies PDF raster output rather than relying only on successful asset requests
 - handles Persian RTL text and isolated English LTR phrases inside mixed-language paragraphs
-- shares authentication with the Collaborator Desk
+- uses central SILO Identity for the publishing account
+- lets the site owner add optional calls to action and media/source links to Persian website articles, while keeping English versions separate
 
 ## Product approach
 
