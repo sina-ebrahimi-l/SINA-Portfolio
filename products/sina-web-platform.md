@@ -15,6 +15,7 @@ The completed public website for Sina Ebrahimi's education, mentorship, communit
 - Community overview, Free Community and VIP Readers' Association website pages
 - Consulting and webinar presentation
 - Media, podcasts, courses, live content, music and articles
+- Optional Persian article source footers with a call to action, supported media playback and source links, managed by the site owner
 - About, authentic member experiences and support
 - Persian and authored English website experiences
 - Responsive presentation, approved artwork and coordinated text/image motion
