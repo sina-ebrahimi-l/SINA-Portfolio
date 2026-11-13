@@ -6,6 +6,8 @@ The SINA Trading Ecosystem connects education, mentorship, community, content, t
 
 It is not a single application. It is an operating ecosystem built around the trader journey and the systems required to support it.
 
+The completed public website is live at [sinaebrahimi.com](https://sinaebrahimi.com) (owner-accepted 2026-11-13); it connects the education, community, media and support journeys.
+
 ## Ecosystem Areas
 
 ### Education

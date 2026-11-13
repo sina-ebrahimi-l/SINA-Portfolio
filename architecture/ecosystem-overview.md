@@ -6,7 +6,7 @@ This public view shows system boundaries and relationships while intentionally o
 
 ## Audience & Professional Presence
 
-Public education, market commentary, podcasts, live sessions and professional channels create the top of the ecosystem.
+The completed [official website](https://sinaebrahimi.com) is the owned public home of the ecosystem (Production, owner-accepted 2026-11-13). Public education, market commentary, podcasts, live sessions and professional channels connect audiences to it.
 
 ## Education & Community
 
@@ -64,7 +64,7 @@ flowchart TD
 - SILO Trading Journal
 - VIP Community / Analyst Platform
 - SIA CRM & Accountant
-- SINA Web Platform
+- SINA Web Platform — Complete / Production; initial website scope delivered
 - Visual Deck System
 - Moai Content System
 - SILO Speech Service

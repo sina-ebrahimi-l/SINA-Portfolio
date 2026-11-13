@@ -2,7 +2,7 @@
 
 ## Trading Directory
 
-**Status:** Deferred — start only after the main website is complete and stable.
+**Status:** Deferred / separate post-launch proposal. The main website is complete and in production as of 2026-11-13. Stabilization and explicit approval for this directory remain prerequisites; website completion does not automatically start this project.
 
 ### Goal
 Build a trading-focused directory inside the main website as a long-term acquisition, SEO and lead-generation layer rather than as a simple link list.
@@ -35,7 +35,7 @@ The directory should sit near the top of the funnel:
 Search / discovery → directory page → useful tool, comparison or content → free resource / community → School, Academy or Mentorship
 
 ### MVP idea
-After the website is finished:
+Potential independently approved MVP after launch stabilization:
 - 5 core categories
 - ~30 high-quality listings
 - Search and filters
