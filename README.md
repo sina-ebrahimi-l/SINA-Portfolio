@@ -31,6 +31,7 @@ Together they form **SINA OS**: a connected operating environment designed to re
 
 ### AI & Infrastructure
 - [AI Infrastructure Layer](products/ai-infrastructure.md)
+- [Sina Commander — AI Notification & Approval Bridge](products/ai-infrastructure.md#sina-commander--ai-notification--approval-bridge) — **In Production** for registered AI tasks
 - [Project Hub](products/project-hub.md)
 
 ## Ecosystem
